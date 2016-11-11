@@ -1,0 +1,8 @@
+{:project/name "google",
+ :project/tagline "browser, details, data",
+ :project/repo-url "https://www.google.co.in",
+ :project/home-page-url "https://www.google.co.in",
+ :project/beginner-issues-label "search engine, browse",
+ :project/description "Search Projects",
+ :project/beginner-friendly true,
+ :record/tags "search engine, browse"}
